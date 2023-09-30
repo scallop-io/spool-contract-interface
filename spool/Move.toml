@@ -1,0 +1,12 @@
+[package]
+name = "spool"
+version = "0.0.1"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "mainnet" }
+
+[dependencies.Math]
+local = "./deps/math"
+
+[addresses]
+spool = "0x0"
