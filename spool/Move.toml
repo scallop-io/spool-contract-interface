@@ -1,7 +1,7 @@
 [package]
 name = "spool"
 version = "0.0.1"
-published-at = "0x7c4fdabe81c31b19a45d1e572a52a539997a90903fbb5bfab71480abe0fa62c3"
+published-at = "0x472fc7d4c3534a8ec8c2f5d7a557a43050eab057aaab853e8910968ddc84fc9f"
 
 [dependencies.Sui]
 git = "https://github.com/MystenLabs/sui.git"
