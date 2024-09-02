@@ -1,5 +1,5 @@
 [package]
-name = "Math"
+name = "MathSpool"
 version = "0.0.1"
 
 [dependencies.Sui]
@@ -8,4 +8,4 @@ subdir = "crates/sui-framework/packages/sui-framework"
 rev = "mainnet"
 
 [addresses]
-math = "0x0"
+math_spool = "0x0"

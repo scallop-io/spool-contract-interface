@@ -1,6 +1,6 @@
-module math::u64 {
+module math_spool::u64 {
   
-  use math::u128;
+  use math_spool::u128;
   
   const U64_MAX: u128 = 18446744073709551615u128;
   

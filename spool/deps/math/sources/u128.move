@@ -1,4 +1,4 @@
-module math::u128 {
+module math_spool::u128 {
   
   const DIVIDE_BY_ZERO: u64 = 1002;
   const CALCULATION_OVERFLOW: u64 = 1003;
